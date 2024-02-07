@@ -10,7 +10,7 @@ kotlin {
     wasmJs {
        browser()
     }
-    
+
     androidTarget {
         compilations.configureEach {
             kotlinOptions {
@@ -18,9 +18,9 @@ kotlin {
             }
         }
     }
-    
+
     jvm()
-    
+
     sourceSets {
         commonMain.dependencies {
             // put your Multiplatform dependencies here
