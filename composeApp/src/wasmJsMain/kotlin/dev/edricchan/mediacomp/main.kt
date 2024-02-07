@@ -1,4 +1,4 @@
-package dev.edricchan.readingcomp
+package dev.edricchan.mediacomp
 
 import androidx.compose.ui.ExperimentalComposeUiApi
 import androidx.compose.ui.window.CanvasBasedWindow

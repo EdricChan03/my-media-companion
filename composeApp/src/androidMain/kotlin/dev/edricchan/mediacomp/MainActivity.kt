@@ -1,4 +1,4 @@
-package dev.edricchan.readingcomp
+package dev.edricchan.mediacomp
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

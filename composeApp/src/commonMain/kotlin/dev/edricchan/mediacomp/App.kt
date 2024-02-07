@@ -1,4 +1,4 @@
-package dev.edricchan.readingcomp
+package dev.edricchan.mediacomp
 
 import Greeting
 import androidx.compose.animation.AnimatedVisibility
