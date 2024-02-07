@@ -12,7 +12,7 @@ kotlin {
     }
     
     androidTarget {
-        compilations.all {
+        compilations.configureEach {
             kotlinOptions {
                 jvmTarget = "1.8"
             }
